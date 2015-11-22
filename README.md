@@ -1,10 +1,10 @@
 # READ ME
 
-Here, we aim to prepare a tidy dataset that can be used for later analysis. There original data were retrieved from the following link:
+Here, I aim to prepare a tidy dataset that can be used for later analysis. There original data were retrieved from the following link:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-Date were then analysed using an R script called run_analysis.R (found on this repository) that aims to do the following:
+Date were saved locally into my computer and later analysed using an R script called run_analysis.R (found on this repository) that aims to achieve the following aims:
 
 1. Merge a training and the test sets to create a new dataset
 2. Extract *exclusively* the measurements on the mean and standard deviation for each variable measured 
