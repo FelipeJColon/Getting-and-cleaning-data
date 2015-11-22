@@ -58,7 +58,7 @@ in the tidydata.txt file (found in the same repository as this file):
 1. The training and the test sets were merged to create one dataset.
 2. Measurements on the mean and standard deviation for each measurement were extracted. 
 3. Descriptive activity names were assigned to name the activities in the dataset.
-4. Appropriate labels were given to the variables in the dataset with descriptive variable names. 
+4. Appropriate labels were given to the variables in the dataset with descriptive variable names (see table below). 
 5. A second, independent tidy dataset (tidydata.txt) was created with the average of each 
 variable for each activity and each subject.
 
