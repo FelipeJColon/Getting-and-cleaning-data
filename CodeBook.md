@@ -1,4 +1,4 @@
-# Code book"
+# Code book
 
 This codebook was created on 2015-20-12 16:25:20 using RStudio version 0.99.489 and 
 R version 3.1.3 (2015-03-09, "Smooth Sidewalk"). 
@@ -144,4 +144,4 @@ complete list of variables is the following:
 ## References
 Please acknowledge the data source by citing: 
 
-Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
+- Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
