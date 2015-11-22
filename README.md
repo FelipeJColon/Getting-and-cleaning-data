@@ -1,4 +1,4 @@
-EADME
+#README
 
 Here, we aim to prepare a tidy dataset that can be used for later analysis. There original data were retrieved from the following link:
 
